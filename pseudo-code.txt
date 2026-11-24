@@ -1,0 +1,28 @@
+==================================
+🧠 DOG FINDER PSEUDO-CODE WORKSHEET
+==================================
+
+Fill this out before you write code. This is pseudo-code: outline the actions in plain language. Don't write code yet.
+
+--------------------
+Components
+--------------------
+
+List each component. For each one: its props, its children, the user actions it handles, and the state it needs.
+
+--------------------
+Data
+--------------------
+
+Do this once for the breed list and once for the photos.
+
+  1. WHAT data should we get? What request do we send, and to what URL?
+     What do we get back, and what is its data type?
+
+  2. WHEN should we get it? What event or user action is the trigger?
+
+  3. WHERE does this happen in the code? Which component or function?
+
+  4. HOW do we do it? What steps do we need?
+     - What do we show while the data is loading?
+     - What do we show if something goes wrong?
