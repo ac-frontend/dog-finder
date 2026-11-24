@@ -8,21 +8,28 @@ Fill this out before you write code. This is pseudo-code: outline the actions in
 Components
 --------------------
 
-List each component. For each one: its props, its children, the user actions it handles, and the state it needs.
+List each component. For each one: its props, its children, and the state it needs.
 
 --------------------
 Data
 --------------------
 
-Do this once for the breed list and once for the photos.
-
   1. WHAT data should we get? What request do we send, and to what URL?
      What do we get back, and what is its data type?
+     What does one breed look like? Which parts do we need?
 
   2. WHEN should we get it? What event or user action is the trigger?
 
   3. WHERE does this happen in the code? Which component or function?
 
   4. HOW do we do it? What steps do we need?
+     - Where does the API key go in the request?
      - What do we show while the data is loading?
      - What do we show if something goes wrong?
+     - What do we show if a breed is missing an image, a life span or a temperament?
+
+--------------------
+API key
+--------------------
+
+Where will you keep your key? How will you make sure it does not get pushed to GitHub?
