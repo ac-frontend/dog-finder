@@ -44,13 +44,13 @@ Your design can be different. Make it your own.
 - **Placeholder image:** `https://placehold.co/300x200?text=No+Image`
 - **Fetch API guide:** [MDN: Using Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 - **Vite environment variables:** [Env Variables and Modes](https://vite.dev/guide/env-and-mode)
-- **Documentation guides:** *(add link)*
+- **Handy guides:** The teaching team at AnnieCannons has provided some [handy guides](https://docs.google.com/document/d/18jxCUA0bebCyYaIHy8aaKMgOQH4w5-b-iCGDWpV4K4M/edit?tab=t.0#heading=h.ykdbmvmlp0ag) to help you use GitHub and other coding tools
 
 ## 🚀 Roadmap
 
 ### ⚙️ Fork and clone
 
-1. Fork this repo. Use the fork and clone guide *(add link)*.
+1. Fork this repo. Use this [fork and clone guide](https://docs.google.com/document/d/18jxCUA0bebCyYaIHy8aaKMgOQH4w5-b-iCGDWpV4K4M/edit?tab=t.55gk3qetux2a#heading=h.wbbot8ebr58a).
 2. Clone **your fork** into your `dev` folder.
 3. Open the `dog-finder` folder in VS Code, then run `npm install` and `npm run dev`.
 
